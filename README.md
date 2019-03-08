@@ -1,0 +1,1 @@
+Change the username and password to connect to your database in DBHelper.java line 28
